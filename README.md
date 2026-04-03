@@ -69,6 +69,8 @@ Designed a product launch campaign paired with an optimized transactional email 
 - Transactional email increases customer trust  
 - Subtle upsells increase revenue potential  
 
+<img src="https://mcusercontent.com/ef5f59b191bf42a1ff958f8e1/images/0901c06d-902d-281b-c171-88f0641dbb15.png" alt="Description" width="400">
+
 ---
 
 ### 🛍️ Promo + Abandoned Cart Flow  
