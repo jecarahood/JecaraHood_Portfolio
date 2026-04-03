@@ -137,6 +137,9 @@ Designed a seasonal campaign to launch a spring collection and drive limited-tim
 - Urgency drives conversions  
 - Bundles increase perceived value  
 
+<img src="https://mcusercontent.com/ef5f59b191bf42a1ff958f8e1/images/1c394e0f-664b-1d12-1f95-02fc2b20cc58.png" alt="Description" width="400">
+
+
 ---
 
 ### 🌿 Conversion-Focused Welcome Flow  
