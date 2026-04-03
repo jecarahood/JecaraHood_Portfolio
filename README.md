@@ -103,7 +103,7 @@ Created a promotional campaign and abandoned cart email to increase conversions 
 - Cart reminder captures high intent  
 - Product suggestions increase AOV  
 
-<img src="https://mcusercontent.com/ef5f59b191bf42a1ff958f8e1/images/0901c06d-902d-281b-c171-88f0641dbb15.png" alt="Description" width="400">
+<img src="https://mcusercontent.com/ef5f59b191bf42a1ff958f8e1/images/2e15a5e1-b0de-1972-7022-f0dc5ed5227b.png" alt="Description" width="400">
 
 ---
 
