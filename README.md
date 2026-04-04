@@ -173,6 +173,8 @@ Designed a welcome flow with an early CTA strategy to convert high-intent subscr
 - Builds trust through value  
 - Multiple CTAs increase conversions  
 
+<img src="https://mcusercontent.com/ef5f59b191bf42a1ff958f8e1/images/84ce2391-32ba-dba8-a05d-d213931993b5.png" alt="Description" width="400">
+
 ---
 
 ### 🌱 Minimal Welcome Flow  
