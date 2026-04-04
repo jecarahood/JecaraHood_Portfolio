@@ -207,6 +207,9 @@ Designed a simple, trust-building welcome flow to guide new subscribers toward b
 - Establishes trust through storytelling  
 - Smooth transition to conversion  
 
+
+<img src="https://mcusercontent.com/ef5f59b191bf42a1ff958f8e1/images/4e301c71-ffcc-79ac-6f8e-7a1719582e2b.png" alt="Description" width="400">
+
 ---
 
 ## ⚙️ My Process
